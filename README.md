@@ -1,24 +1,12 @@
 # ToNSaveGenerator
 Save Generator for Terrors of Nowhere. (Source code of https://ton.eeacks.cc )
 
-Donate [me](https://github.com/extremeblackliu) for my works!
+Perhaps you guys know me from somewhere, I don't know lol.
 
-# Feature
-Written in pure V8 engine, runs on Cloudflare worker!
+At first, I was trying to push the source code to the public without being abused, so I set the number of stars as a requirement, but my favorite Twitter shadow banned my account and unlisted every new post of mine, and ofc I didn't to pay to promote my posts. 
 
-Compatibility with Browser: You can run in your browser by just a bit modification!
+Pretty ironic right? That's how I started to move to selling keys to access the premium version.
 
-# Deploy
+So I'll leave this here, but anyone who wants to buy the source code, I'll sell it for $1,200. Or you can buy a lifetime key for $5.
 
-0. Create new cloudflare worker.
-1. Upload all files to cloudflare worker editor or by wrangler.
-2. Create new cloudflare worker KV, name it whatever.
-3. Bind the KV to worker with this relation: `DB` => `YOUR_KV_NAMESPACE`.
-
-You are done!
-
-# Source code missing
-I would fully open-source only if many people know this!
-
-# DISCLAIMER
-This is just a save generator, and it does not belong to cheating.
+Thanks everyone.
