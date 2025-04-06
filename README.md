@@ -7,6 +7,6 @@ At first, I was trying to push the source code to the public without being abuse
 
 Pretty ironic right? That's how I started to move to selling keys to access the premium version.
 
-So I'll leave this here, but anyone who wants to buy the source code, I'll sell it for $1,200. Or you can buy a lifetime key for $5.
+Nope i dont sell source code, i put there 1200$ for scare any people who wants spam me in email that willing buy it while i did not said selling source code before this, now spams are gone.
 
 Thanks everyone.
